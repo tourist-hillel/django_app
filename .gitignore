@@ -1,0 +1,4 @@
+dj_env
+*_env
+*.pyc
+*.sqlite3
